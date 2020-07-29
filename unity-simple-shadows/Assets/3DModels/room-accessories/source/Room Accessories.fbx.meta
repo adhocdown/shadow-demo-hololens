@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: f6252e1dc67679743b3363e0a8d2403e
+timeCreated: 1569214358
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ball1
+    100002: Bat
+    100004: Book
+    100006: Coaster
+    100008: Coaster2
+    100010: DogBowl
+    100012: DogToy
+    100014: Eraser
+    100016: Glass
+    100018: Lamp1
+    100020: Marker
+    100022: MarkerCap
+    100024: Mug
+    100026: Pencil
+    100028: Phone1
+    100030: //RootNode
+    100032: Table1
+    100034: Tissues
+    100036: TVRemote1
+    400000: Ball1
+    400002: Bat
+    400004: Book
+    400006: Coaster
+    400008: Coaster2
+    400010: DogBowl
+    400012: DogToy
+    400014: Eraser
+    400016: Glass
+    400018: Lamp1
+    400020: Marker
+    400022: MarkerCap
+    400024: Mug
+    400026: Pencil
+    400028: Phone1
+    400030: //RootNode
+    400032: Table1
+    400034: Tissues
+    400036: TVRemote1
+    2100000: Bat1
+    2100002: Table
+    2100004: Phone
+    2100006: Lamp
+    2100008: Ball
+    2100010: Book1
+    2100012: Coaster1
+    2100014: DogBowl1
+    2100016: DogToy1
+    2100018: Eraser1
+    2100020: Glass1
+    2100022: Marker1
+    2100024: MarkerCap1
+    2100026: Mug1
+    2100028: Pencil1
+    2100030: Tissues1
+    2100032: TVRemote
+    2300000: Ball1
+    2300002: Bat
+    2300004: Book
+    2300006: Coaster
+    2300008: Coaster2
+    2300010: DogBowl
+    2300012: DogToy
+    2300014: Eraser
+    2300016: Glass
+    2300018: Lamp1
+    2300020: Marker
+    2300022: MarkerCap
+    2300024: Mug
+    2300026: Pencil
+    2300028: Phone1
+    2300030: Table1
+    2300032: Tissues
+    2300034: TVRemote1
+    3300000: Ball1
+    3300002: Bat
+    3300004: Book
+    3300006: Coaster
+    3300008: Coaster2
+    3300010: DogBowl
+    3300012: DogToy
+    3300014: Eraser
+    3300016: Glass
+    3300018: Lamp1
+    3300020: Marker
+    3300022: MarkerCap
+    3300024: Mug
+    3300026: Pencil
+    3300028: Phone1
+    3300030: Table1
+    3300032: Tissues
+    3300034: TVRemote1
+    4300000: Bat
+    4300002: Table1
+    4300004: Phone1
+    4300006: Lamp1
+    4300008: Ball1
+    4300010: Book
+    4300012: Coaster
+    4300014: DogBowl
+    4300016: DogToy
+    4300018: Eraser
+    4300020: Glass
+    4300022: Marker
+    4300024: MarkerCap
+    4300026: Mug
+    4300028: Coaster2
+    4300030: Pencil
+    4300032: Tissues
+    4300034: TVRemote1
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

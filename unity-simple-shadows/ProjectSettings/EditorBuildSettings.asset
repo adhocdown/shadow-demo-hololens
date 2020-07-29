@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/AllShadows.unity
+    guid: 2d3bd459051aacc44878da5da9712968
+  - enabled: 1
+    path: Assets/Scenes/GroundContactExperiment.unity
+    guid: d3a8478f2cbcf0746a11d51855b7eb5c

@@ -1,0 +1,11 @@
+# File created by luuv TSX
+# Created on: Tue Jan 19 14:23:22 2010 -1
+
+newmtl RoadKillOut
+Ns 0
+Ka 0.310000 0.310000 0.310000
+Kd 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+d 0.996078
+map_Kd diver.bmp 
+# End
