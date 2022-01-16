@@ -101,9 +101,9 @@ If you preload a static map, then you may need to clean the obj file that contai
 
 
 ## Citation
-Copyright (c) 2019 Haley Adams. You may use and modify my code under the [Mozilla Public License 2.0](https://github.com/adhocdown/ar-shadows-simple/blob/master/LICENSE). However, please cite the associated publication. See CITATION for BibTex file. 
+Copyright (c) 2019 Haley Adams. You may use and modify my code under the [Mozilla Public License 2.0](https://github.com/adhocdown/ar-shadows-simple/blob/master/LICENSE). However, please cite the associated publication. 
 
-> Haley Adams, Authors,  and  Bobby  Bodenheimer. Title. *CONFERENCE*, 2020. 
+> Haley Adams, Jeanine Stefanucci, Sarah H Creem-Regehr, Grant Pointon, William B Thompson,  and  Bobby  Bodenheimer. Shedding Light on Cast Shadows: An Investigation of Perceived Ground Contact in AR and VR. IEEE TVCG, 2021. DOI: 10.1109/TVCG.2021.3097978
 
 
 ### Stay Connected
